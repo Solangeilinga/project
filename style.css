@@ -1,8 +1,7 @@
 .main{
     position:absolute;
     top:0;
-   background-color:blue;
-    width:large;
+    width:200%;
     padding:10px;
 }
 body{
