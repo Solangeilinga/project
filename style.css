@@ -1,7 +1,9 @@
 .main{
     position:absolute;
     top:0;
-   background-color:blue; 
+   background-color:blue;
+    width:large;
+    padding:10px;
 }
 body{
     font-family: Georgia;
@@ -21,11 +23,10 @@ main{
     position:relative;
 }
 footer{
-    background-color: aliceblue;
      position:relative;
 }
 li{
-    display: inline;
+    display: flex;
     width: 3cm;
 }
 h1{
